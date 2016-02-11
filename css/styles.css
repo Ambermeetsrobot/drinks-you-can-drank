@@ -21,4 +21,8 @@
 #fiber {
   display: none;
 }
+
+img {
+  max-height: 200px;
+  width: auto;
 }
